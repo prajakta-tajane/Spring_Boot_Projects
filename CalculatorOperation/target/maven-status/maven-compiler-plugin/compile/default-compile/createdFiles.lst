@@ -1,0 +1,6 @@
+cal\operation\controller\MultiplicationController.class
+cal\operation\controller\SubstractionController.class
+cal\operation\controller\DivisionController.class
+cal\operation\CalculatorOperationsApplication.class
+cal\operation\entity\CalculationMain.class
+cal\operation\controller\AdditionController.class
