@@ -1,0 +1,5 @@
+subject\dependency\entity\Subject.class
+subject\dependency\entity\Trainer.class
+subject\dependency\controller\TrainerController.class
+subject\dependency\configuration\DependencyConfiguration.class
+subject\dependency\SubjectdependencyApplication.class
